@@ -13,11 +13,11 @@ def main():
         match op:
             case '1':
                 salvar_contato()
-            case '1':
+            case '2':
                 visualizar_contatos()
-            case '1':
+            case '3':
                 visualizar_favoritos()
-            case '1':
+            case '4':
                 exit()
 
 
